@@ -19,10 +19,10 @@
   <ShowTimer>false</ShowTimer>
   <MinTime>1</MinTime>
   <MinTimeMessage>You have to spend at least %%MinTime minutes to finish this course.</MinTimeMessage>
-  <UseScorm>true</UseScorm>
-  <UseScormVersion12>true</UseScormVersion12>
+  <UseScorm>false</UseScorm>
+  <UseScormVersion12>false</UseScormVersion12>
   <UseScormVersion2004>false</UseScormVersion2004>
-  <ReviewMode>false</ReviewMode>
+  <ReviewMode>true</ReviewMode>
   <CopyrightInfo><![CDATA[S-162-PH-02 v19.04.00 | Copyright &copy; 2019 Inspired eLearning LLC.]]></CopyrightInfo>
   <HostedOniLMS>true</HostedOniLMS>
   <DisableExit>false</DisableExit>
